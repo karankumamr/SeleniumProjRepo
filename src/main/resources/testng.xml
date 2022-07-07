@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CPC TechnoSolution Web Application Test">
+<listeners>
+<listener  class-name="com.cpc.ExtentReportListener.ExtentReportNg"  />
+</listeners>
+
+ <!-- first test -->
+	<test name="CPC TechnoSolution Automation Test Cases 1">
+		<classes>
+		
+			<class name="com.cpcTechnoSolutions.qa.testCases.LoginPageTest" />
+
+		</classes>
+	</test>
+<!-- end first test -->
+
+<!-- second test -->
+	<test name="CPC TechnoSolution Automation Test Cases 2">
+		<classes>
+
+			<class name="com.cpcTechnoSolutions.qa.testCases.HomePageTest" />
+
+		</classes>
+	</test>
+<!--end second test -->
+
+<!-- third test -->
+	<test name="CPC TechnoSolution Automation Test Cases 3">
+		<classes>
+
+			<class name="com.cpcTechnoSolutions.qa.testCases.EmployeesPageTest" />
+		</classes>
+	</test>
+<!-- end third test -->
+
+
+
+</suite> <!-- Suite -->

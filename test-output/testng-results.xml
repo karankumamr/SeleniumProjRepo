@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96857" started-at="2022-05-11T09:17:52Z" finished-at="2022-05-11T09:19:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96857" started-at="2022-05-11T09:17:52Z" finished-at="2022-05-11T09:19:28Z">
+      <class name="com.cpcTechnoSolutions.qa.testCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="setUp" is-config="true" duration-ms="38922" started-at="2022-05-11T09:17:52Z" finished-at="2022-05-11T09:18:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="loginPageTitleTest" duration-ms="101" started-at="2022-05-11T09:18:31Z" finished-at="2022-05-11T09:18:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="tearDown" is-config="true" duration-ms="1300" started-at="2022-05-11T09:18:31Z" finished-at="2022-05-11T09:18:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="setUp" is-config="true" duration-ms="8362" started-at="2022-05-11T09:18:32Z" finished-at="2022-05-11T09:18:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CPClogoImageTest()[pri:2, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="CPClogoImageTest" duration-ms="402" started-at="2022-05-11T09:18:40Z" finished-at="2022-05-11T09:18:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CPClogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="tearDown" is-config="true" duration-ms="1016" started-at="2022-05-11T09:18:41Z" finished-at="2022-05-11T09:18:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="setUp" is-config="true" duration-ms="23497" started-at="2022-05-11T09:18:42Z" finished-at="2022-05-11T09:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="RememberMeClick()[pri:3, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="RememberMeClick" duration-ms="1315" started-at="2022-05-11T09:19:05Z" finished-at="2022-05-11T09:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RememberMeClick -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="tearDown" is-config="true" duration-ms="1109" started-at="2022-05-11T09:19:07Z" finished-at="2022-05-11T09:19:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="setUp" is-config="true" duration-ms="8862" started-at="2022-05-11T09:19:08Z" finished-at="2022-05-11T09:19:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:4, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="loginTest" duration-ms="10837" started-at="2022-05-11T09:19:17Z" finished-at="2022-05-11T09:19:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cpcTechnoSolutions.qa.testCases.LoginPageTest@6a01e23]" name="tearDown" is-config="true" duration-ms="1009" started-at="2022-05-11T09:19:27Z" finished-at="2022-05-11T09:19:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cpcTechnoSolutions.qa.testCases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
